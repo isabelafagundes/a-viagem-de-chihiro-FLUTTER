@@ -1,5 +1,5 @@
 # A Viagem De Chihiro com FLUTTER
-Landing page sobre o filme dos Studios Ghibli A Viagem de Chihiro. Este projeto foi desenvolvido com o framework Flutter.
+Landing page sobre o filme dos Studios Ghibli: A Viagem de Chihiro. Este projeto foi desenvolvido com o framework Flutter.
 
 Acesse em: <a href="https://isabelafagundes.github.io/a-viagem-de-chihiro-FLUTTER/" Target="_blank">A Viagem de Chihiro<a>
 
