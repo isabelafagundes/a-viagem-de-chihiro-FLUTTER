@@ -8,16 +8,16 @@ class CardChihiroWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     bool telaPequena = MediaQuery.of(context).size.width < 1000;
-    return SingleChildScrollView(
-      child: Container(
-        height: MediaQuery.of(context).size.height,
-        decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            colors: [Color(0xFF628E75), Color(0xFF1A4855)],
-          ),
+    return Container(
+      height: MediaQuery.of(context).size.height,
+      decoration: const BoxDecoration(
+        gradient: LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [Color(0xFF628E75), Color(0xFF1A4855)],
         ),
+      ),
+      child: SingleChildScrollView(
         child: Column(
           children: [
             Container(

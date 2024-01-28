@@ -58849,7 +58849,7 @@ q=A.a([A.a41(A.m8(p,B.Jq,p,p,p,n?B.xx:B.xu,p,p),4)],r)
 if(!n)q.push(A.a41(A.a3G(A.a([A.j9("assets/img/image.png")],r),B.az,B.cp),5))
 s=A.a([s,A.CA(q,B.d3,B.cp,B.bw)],r)
 if(n)s.push(B.F7)
-return new A.D3(A.m8(p,A.a3G(s,B.az,B.cp),p,B.uY,o.a.b,p,p,p),p)}}
+return A.m8(p,new A.D3(A.a3G(s,B.az,B.cp),p),p,B.uY,o.a.b,p,p,p)}}
 A.DM.prototype={
 U(a){var s,r,q=null,p=t.w,o=A.cj(a,q,p).w.a.a<1000,n=o?B.az:B.d3,m=A.a([],t.E)
 if(!o)m.push(B.tU)
